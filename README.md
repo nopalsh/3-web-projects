@@ -7,7 +7,7 @@ Ini dokumentasi dari beberapa proyek web yang hampir selesai. Dokumentasi mencak
 Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan sanksi yang berlaku. Proyek akan dimiliki oleh client sepenuhnya dan pelepasan lisensi, jika client telah memenuhi kewajibannya.**
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
-# [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+### [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 The Apache License 2.0 attempts to forestall potential patent litigation in Section 3. The user is granted a patent license from each contributor to "make, have made, use, offer to sell, sell, import, and otherwise transfer the Work." Through an in terrorem clause, if the user sues anyone alleging that the software or a contribution within it constitutes patent infringement, any such patent licenses for that work are terminated.
 
 ## 📂 Konten
