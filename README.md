@@ -89,3 +89,4 @@ Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
 - **🔗 LinkedIn**: [Mochamad Naufal Shofy](https://www.linkedin.com/in/mochamad-naufal-shofy)
 
 Terima kasih telah mengunjungi repositori ini
+Copyright [2024] [Mochamad Naufal Shofy]
