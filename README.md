@@ -1,31 +1,67 @@
 # ⏳ Pending Web Projects
 
-Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai namun belum memenuhi kewajiban pembayarannya. Hak kepemilikan proyek-proyek ini terbagi menjadi 90% hak saya dan 10% hak client.
+Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai sebagian besar (99%), namun klien belum memenuhi kewajibannya.
 
-## 📂 Daftar Proyek
+## 📜 Tentang Lisensi
 
-### Proyek 1: Nama Proyek
-- **📝 Deskripsi**: Deskripsi singkat tentang proyek ini.
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan hukum yang berlaku.**
 
-### Proyek 2: Nama Proyek
-- **📝 Deskripsi**: Deskripsi singkat tentang proyek ini.
+## 📂 Konten Repositori
 
-## 📜 Informasi Lisensi
+- **Full file website beserta database (siap pakai)**
+- **File dokumentasi dalam format Microsoft Word (.docx)**: Berisi penjelasan tentang website, flowchart, dan desain database
+- **Screenshot di setiap halaman**
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Untuk informasi lebih lanjut mengenai lisensi, silakan merujuk ke file `LICENSE`.
+## 🌟 Daftar Proyek
 
-## 📦 File Proyek
+### Proyek 1 - Website Admin Impor-Ekspor
 
-File proyek lengkap, termasuk basis data SQL, telah dikompresi dalam format ZIP dan diunggah ke repositori ini. File ZIP tersebut dilindungi dengan kata sandi yang hanya saya ketahui. Dokumentasi terperinci dapat ditemukan dalam file README khusus untuk setiap proyek, bersama dengan tangkapan layar (screenshot) proyek.
+Website ini dikembangkan untuk layanan jasa ekspedisi impor dan ekspor barang. Admin dapat menginput data untuk ekspor dan menerima barang untuk impor.
 
-## 🎯 Tujuan Repositori
+**Screenshot**:
+- [Screenshot 1](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-impor-php-2024-07-08-10_10_34.png)
+- [Screenshot 2](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
 
-Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang telah saya kerjakan dan menunggu pembayaran. **Semua kode dan dokumentasi di repositori ini masih milik saya sepenuhnya dan tidak dapat digunakan kembali tanpa izin. Jika ada yang melakukan tindakan yang merugikan terhadap pemilik dan pembuat (saya sendiri), maka itu akan dikenakan sanksi yang berlaku.**
+**Download File**:
+- [Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/tree/main/Admin%20Impor-Ekspor)
+- [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Website%20Impor-Ekspor%20Barang.docx)
 
-## 📬 Kontak
+atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
 
-Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
-- **✉️ Email**: [alamat email Anda]
-- **🔗 LinkedIn**: [tautan LinkedIn Anda]
+### Proyek 2 - Website Tracking Barang
+
+Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin dapat memperbarui status pengiriman, sementara klien dapat melacak status pengiriman dengan nomor resi.
+
+**Screenshot Admin**:
+- [Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Admin/screencapture-localhost-eks-tracking-tracking-php-2024-07-08-10_12_38.png)
+
+**Screenshot Client**:
+- [Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Client/screencapture-localhost-ekspedisi-index-php-2024-07-08-10_14_09.png)
+
+**Download File**:
+- [Website Tracking Barang](https://github.com/nopalsh/pending-web-projects/tree/main/Tracking)
+- [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Website%20Tracking.docx)
+
+atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+
+### Proyek 3 - World Hotel
+
+Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar.
+
+**Screenshot Admin**:
+- [Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
+
+**Screenshot Client**:
+- [Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
+
+**Download File**:
+- [World Hotel](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel)
+- [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Website%20World%20Hotel.docx)
+
+atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+
+---
+
+**Keywords**: pending web projects, web development, documentation, HTML, CSS, JavaScript, PHP, MySQL, Apache License 2.0, [Nama Anda]
 
 Terima kasih telah mengunjungi repositori ini.
