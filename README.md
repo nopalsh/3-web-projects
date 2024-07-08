@@ -1,6 +1,6 @@
 # ⏳ Pending Web Projects
 
-Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai namun belum dibayar sepenuhnya. Hak kepemilikan proyek-proyek ini terbagi menjadi 90% hak saya dan 10% hak mereka.
+Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai namun belum memenuhi kewajiban pembayarannya. Hak kepemilikan proyek-proyek ini terbagi menjadi 90% hak saya dan 10% hak client.
 
 ## 📂 Daftar Proyek
 
@@ -20,7 +20,7 @@ File proyek lengkap, termasuk basis data SQL, telah dikompresi dalam format ZIP 
 
 ## 🎯 Tujuan Repositori
 
-Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang telah saya kerjakan dan menunggu pembayaran. **Semua kode dan dokumentasi di repositori ini adalah milik saya dan tidak dapat digunakan kembali tanpa izin. Jika ada yang melakukan tindakan yang merugikan terhadap pemilik dan pembuat (saya sendiri), maka itu akan dikenakan sanksi yang berlaku.**
+Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang telah saya kerjakan dan menunggu pembayaran. **Semua kode dan dokumentasi di repositori ini masih milik saya sepenuhnya dan tidak dapat digunakan kembali tanpa izin. Jika ada yang melakukan tindakan yang merugikan terhadap pemilik dan pembuat (saya sendiri), maka itu akan dikenakan sanksi yang berlaku.**
 
 ## 📬 Kontak
 
