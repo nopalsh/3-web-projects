@@ -1,10 +1,10 @@
 # ⏳ Pending Web Projects
 
-Repositori ini mengumpulkan dokumentasi lengkap dari beberapa proyek web yang hampir selesai. Dokumentasi mencakup deskripsi mendetail serta tangkapan layar dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta basis data yang terintegrasi. Proyek-proyek yang ada di sini meliputi aplikasi untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
+Ini dokumentasi dari beberapa proyek web yang hampir selesai. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang  akan ditanggapi sesuai dengan sanksi yang berlaku.**
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan sanksi yang berlaku.** Proyek akan dimiliki oleh client sepenuhnya, jika client telah memenuhi kewajibannya.
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
 ## 📂 Konten
@@ -26,12 +26,13 @@ Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang
 **Download File**:
 - [Download File Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Admin%20Impor-Ekspor/Admin%20Impor-Ekspor.zip)
 - [Download Dokumentasi (Word) Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Admin%20Impor-Ekspor/Website%20Impor-Ekspor%20Barang.docx)
+- [Lihat Semua Screenshot Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/tree/main/Admin%20Impor-Ekspor/Screenshot)
 
-atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
 
 ### Proyek 2 - Website Tracking Barang
 
-Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin dapat memperbarui status pengiriman, sementara klien dapat melacak status pengiriman dengan nomor resi.
+Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin dapat memperbarui status pengiriman, sementara client dapat melacak status pengiriman dengan nomor ID Pengiriman atau bisa disebut nomor resi.
 
 **Screenshot Admin**:
 - ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Admin/screencapture-localhost-eks-tracking-tracking-php-2024-07-08-10_12_38.png)
@@ -40,14 +41,16 @@ Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin
 - ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Client/screencapture-localhost-ekspedisi-index-php-2024-07-08-10_14_09.png)
 
 **Download File**:
-- [Download File Website Website Tracking Barang](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Tracking/Website%20Tracking.zip)
+- [Download File Website Tracking Barang](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Tracking/Website%20Tracking.zip)
 - [Download Dokumentasi (Word) Website Tracking Barang](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Tracking/Website%20Tracking.docx)
+- [Lihat Semua Screenshot Website Tracking Barang (Admin)](https://github.com/nopalsh/pending-web-projects/tree/main/Tracking/Screenshot%20Admin)
+- [Lihat Semua Screenshot Website Tracking Barang (Client)](https://github.com/nopalsh/pending-web-projects/tree/main/Tracking/Screenshot%20Client)
 
-atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
 
 ### Proyek 3 - World Hotel
 
-Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar.
+Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar, client melakukan booking kamar hotel.
 
 **Screenshot Admin**:
 - ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
@@ -56,13 +59,33 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
 
 **Download File**:
-- [Download File Website Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/World%20Hotel.zip)
-- [Download Dokumentasi (Word) Website Tracking Barang](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/Website%20World%20Hotel.docx)
+- [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/World%20Hotel.zip)
+- [Download Dokumentasi (Word) Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/Website%20World%20Hotel.docx)
+- [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Admin%20Screenshot)
+- [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Client%20Screenshot)
 
-atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
+
 
 ---
 
-**Keywords**: pending web projects, web development, documentation, HTML, CSS, JavaScript, PHP, MySQL, Apache License 2.0, [Nama Anda]
+## 💻 Teknologi yang Digunakan
+
+- **HTML**: Untuk struktur halaman web.
+- **CSS**: Untuk styling halaman web.
+- **Bootstrap**: Untuk desain responsif dan komponen UI.
+- **PHP (Native)**: Untuk pengolahan data di server.
+- **MySQL**: Untuk database.
+- **XAMPP**: Untuk server lokal (localhost).
+
+## 👥 Kontributor
+
+- **Mochamad Naufal Shofy** - Pengembang Utama
+
+## 📬 Kontak
+
+Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
+- **✉️ Email**: naufalshofy38@gmail.com
+- **🔗 LinkedIn**: [Mochamad Naufal Shofy](https://www.linkedin.com/in/mochamad-naufal-shofy)
 
 Terima kasih telah mengunjungi repositori ini
