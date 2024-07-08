@@ -23,7 +23,7 @@ Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang
 - ![Screenshot 2](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
 
 **Download File**:
-- [Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/tree/main/Admin%20Impor-Ekspor)
+- [Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Admin%20Impor-Ekspor.zip)
 - [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Website%20Impor-Ekspor%20Barang.docx)
 
 atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
@@ -39,7 +39,7 @@ Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin
 - ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Client/screencapture-localhost-ekspedisi-index-php-2024-07-08-10_14_09.png)
 
 **Download File**:
-- [Website Tracking Barang](https://github.com/nopalsh/pending-web-projects/tree/main/Tracking)
+- [Website Tracking Barang](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Website%20Tracking.zip)
 - [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Website%20Tracking.docx)
 
 atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
@@ -55,7 +55,7 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
 
 **Download File**:
-- [World Hotel](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel)
+- [World Hotel](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/World%20Hotel.zip)
 - [Dokumentasi Website](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Website%20World%20Hotel.docx)
 
 atau download file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
