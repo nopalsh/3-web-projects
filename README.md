@@ -4,7 +4,7 @@ Repositori ini mengumpulkan dokumentasi lengkap dari beberapa proyek web yang ha
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang  akan ditanggapi sesuai dengan sanksi yang berlaku. Lisensi akan dilepas jika client telah memenuhi kewajibannya.**
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang  akan ditanggapi sesuai dengan sanksi yang berlaku.**
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
 ## 📂 Konten
