@@ -4,7 +4,7 @@ Ini dokumentasi dari beberapa proyek web yang hampir selesai. Dokumentasi mencak
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan sanksi yang berlaku.** Proyek akan dimiliki oleh client sepenuhnya, jika client telah memenuhi kewajibannya.
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan sanksi yang berlaku. Proyek akan dimiliki oleh client sepenuhnya, jika client telah memenuhi kewajibannya.**
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
 ## 📂 Konten
