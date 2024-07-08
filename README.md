@@ -1,12 +1,13 @@
 # ⏳ Pending Web Projects
 
-Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai sebagian besar (99%), namun klien belum memenuhi kewajibannya.
+Repositori ini mengumpulkan dokumentasi lengkap dari beberapa proyek web yang hampir selesai. Dokumentasi mencakup deskripsi mendetail serta tangkapan layar dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta basis data yang terintegrasi. Proyek-proyek yang ada di sini meliputi aplikasi untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang web akan ditanggapi sesuai dengan sanksi yang berlaku. Lisensi akan dilepas jika client telah memenuhi kewajibannya.**
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang  akan ditanggapi sesuai dengan sanksi yang berlaku. Lisensi akan dilepas jika client telah memenuhi kewajibannya.**
+- [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
-## 📂 Konten Repositori
+## 📂 Konten
 
 - **Full file website beserta database (siap pakai)**
 - **File dokumentasi dalam format Microsoft Word (.docx)**: Berisi penjelasan tentang website, flowchart, dan desain database
