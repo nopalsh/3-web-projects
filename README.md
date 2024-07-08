@@ -4,7 +4,7 @@ Repositori ini berisi dokumentasi dari proyek-proyek web yang telah selesai seba
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang akan ditanggapi sesuai dengan hukum yang berlaku.**
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh pengembang. **Tindakan yang merugikan pengembang web akan ditanggapi sesuai dengan sanksi yang berlaku. Lisensi akan dilepas jika client telah memenuhi kewajibannya.**
 
 ## 📂 Konten Repositori
 
@@ -16,11 +16,11 @@ Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Hak 
 
 ### Proyek 1 - Website Admin Impor-Ekspor
 
-Website ini dikembangkan untuk layanan jasa ekspedisi impor dan ekspor barang. Admin dapat menginput data untuk ekspor dan menerima barang untuk impor.
+Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang mau diekspor dan bisa menerima barang yang akan diimpor.
 
 **Screenshot**:
-- [Screenshot 1](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-impor-php-2024-07-08-10_10_34.png)
-- [Screenshot 2](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
+- ![Screenshot 1](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-impor-php-2024-07-08-10_10_34.png)
+- ![Screenshot 2](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
 
 **Download File**:
 - [Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/tree/main/Admin%20Impor-Ekspor)
@@ -33,10 +33,10 @@ atau download file via [Google Drive](https://drive.google.com/drive/folders/1gU
 Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin dapat memperbarui status pengiriman, sementara klien dapat melacak status pengiriman dengan nomor resi.
 
 **Screenshot Admin**:
-- [Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Admin/screencapture-localhost-eks-tracking-tracking-php-2024-07-08-10_12_38.png)
+- ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Admin/screencapture-localhost-eks-tracking-tracking-php-2024-07-08-10_12_38.png)
 
 **Screenshot Client**:
-- [Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Client/screencapture-localhost-ekspedisi-index-php-2024-07-08-10_14_09.png)
+- ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/Tracking/Screenshot%20Client/screencapture-localhost-ekspedisi-index-php-2024-07-08-10_14_09.png)
 
 **Download File**:
 - [Website Tracking Barang](https://github.com/nopalsh/pending-web-projects/tree/main/Tracking)
@@ -49,10 +49,10 @@ atau download file via [Google Drive](https://drive.google.com/drive/folders/1gU
 Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar.
 
 **Screenshot Admin**:
-- [Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
+- ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
 
 **Screenshot Client**:
-- [Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
+- ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
 
 **Download File**:
 - [World Hotel](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel)
