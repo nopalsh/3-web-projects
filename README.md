@@ -6,7 +6,7 @@ Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi men
 
 Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan penuh atas proyek-proyek ini tetap berada di tangan pengembang.
 
-**⚠️ File proyek masih dilindungi hak cipta pengembang.** Tindakan yang merugikan pengembang akan ditanggapi sesuai hukum yang berlaku. Jika client telah melunasi kewajibannya, maka hak atas proyek ini akan dialihkan sepenuhnya kepada client, termasuk pembebasan hak cipta dan lisensi dari pengembang.
+**⚠️ File proyek masih dilindungi hak cipta pengembang.** Tindakan yang merugikan pengembang akan ditanggapi sesuai sanksi yang berlaku. Jika client telah melunasi kewajibannya, maka hak atas proyek ini akan dialihkan sepenuhnya kepada client, termasuk pembebasan hak cipta dan lisensi dari pengembang.
 
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
