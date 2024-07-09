@@ -80,7 +80,7 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - **MySQL**: Untuk database.
 - **XAMPP**: Untuk server lokal (localhost).
 
-## 👥 Kontributor
+## 👥 Pengembang Proyek
 
 - **Mochamad Naufal Shofy** - Pengembang Utama
 
