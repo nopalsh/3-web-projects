@@ -85,6 +85,22 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" semuanya.**
 - Setelah install XAMPP, baru tonton video ini, cara buka menjalankan websitenya: [Tonton Videonya](https://gogole.com)
 
+### Username & Password untuk Website Admin Impor-Ekspor dan Website Tracking
+
+- **Username/Email:** `idn`
+- **Password:** `idn`
+
+atau
+
+- **Username/Email:** `sgp`
+- **Password:** `sgp`
+
+### Username & Password untuk Website World Hotel
+
+- **Username/Email:** `1@1.1`
+- **Password:** `1`
+
+
 ## 👥 Pengembang Proyek
 
 - **Mochamad Naufal Shofy** - Pengembang Utama
