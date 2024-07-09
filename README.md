@@ -83,7 +83,7 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 
 - Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download).
 - Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" semuanya.**
-- Setelah install XAMPP, baru tonton video ini, cara buka menjalankan websitenya: [Tonton Videonya](https://gogole.com)
+- Setelah install XAMPP, baru tonton video ini, cara buka menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
 
 ### Username & Password untuk Website Admin Impor-Ekspor dan Website Tracking
 
