@@ -81,8 +81,8 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 
 ## Panduan Menjalankan Websitenya
 
-- Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download).
-- Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" semuanya.**
+- Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download)
+- Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" atau "Yes" semuanya.**
 - Setelah install XAMPP, baru tonton video ini, cara menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
 
 ### Username & Password untuk Website Admin Impor-Ekspor dan Website Tracking
@@ -99,7 +99,9 @@ atau
 
 - **Username/Email:** `1@1.1`
 - **Password:** `1`
+
 Note:
+
 Untuk ke halaman admin world hotel tinggal search di browser ke: localhost/nama-folder/admin (contoh: localhost/World-Hotel/admin
 
 ## 👥 Pengembang Proyek
