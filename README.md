@@ -4,7 +4,7 @@ Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi men
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan penuh atas proyek-proyek ini (masih) tetap berada di tangan pengembang.
+Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan penuh atas proyek-proyek ini (masih) tetap berada di tangan saya sendiri sebagai pengembang.
 
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
@@ -102,7 +102,7 @@ atau
 
 Note:
 
-Untuk ke halaman admin world hotel tinggal search di browser ke: localhost/nama-folder/admin (contoh: localhost/World-Hotel/admin
+Untuk ke halaman admin world hotel tinggal search di browser ke: localhost/nama-folder/admin (contoh: localhost/World-Hotel/admin)
 
 ## 👥 Pengembang Proyek
 
