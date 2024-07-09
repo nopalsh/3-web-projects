@@ -4,7 +4,7 @@ Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi men
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan penuh atas proyek-proyek ini (masih) tetap berada di tangan pengembang. File proyek masih di hak ciptakan oleh pengembang. Bisa dilepas lisensi pada suatu saat nanti jika client memenuhi kewajibannya.
+Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan penuh atas proyek-proyek ini (masih) tetap berada di tangan pengembang.
 
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
@@ -13,7 +13,7 @@ Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache Licen
 - **Full file website beserta database (siap pakai)**
 - **File dokumentasi dalam format Microsoft Word (.docx)**: Berisi penjelasan tentang website, flowchart, dan desain database
 - **Screenshot di setiap halaman**
-
+- **Tutorial Lihat Websitenya? Scroll ke paling bawah**
 ## 🌟 Daftar Proyek
 
 ### Proyek 1 - Website Admin Impor-Ekspor
@@ -78,6 +78,11 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - **PHP (Native)**: Untuk pengolahan data di server.
 - **MySQL**: Untuk database.
 - **XAMPP**: Untuk server lokal (localhost).
+
+# Panduan Menjalankan Websitenya
+
+- Unduh XAMPP untuk Windows dari [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download).
+- Setelah download XAMPP itu, baru tonton video ini, cara buka websitenya: [Tonton Videonya](https://gogole.com)
 
 ## 👥 Pengembang Proyek
 
