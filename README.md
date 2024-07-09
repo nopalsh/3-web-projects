@@ -13,7 +13,7 @@ Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache Licen
 - **Full file website beserta database (siap pakai)**
 - **File dokumentasi dalam format Microsoft Word (.docx)**: Berisi penjelasan tentang website, flowchart, dan desain database
 - **Screenshot di setiap halaman**
-- **Tutorial Lihat Websitenya? Scroll ke paling bawah**
+- **Cara Jalanin Web nya? Scroll ke paling bawah**
 ## 🌟 Daftar Proyek
 
 ### Proyek 1 - Website Admin Impor-Ekspor
@@ -79,10 +79,11 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - **MySQL**: Untuk database.
 - **XAMPP**: Untuk server lokal (localhost).
 
-# Panduan Menjalankan Websitenya
+## Panduan Menjalankan Websitenya
 
-- Unduh XAMPP untuk Windows dari [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download).
-- Setelah download XAMPP itu, baru tonton video ini, cara buka websitenya: [Tonton Videonya](https://gogole.com)
+- Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download).
+- Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" semuanya.**
+- Setelah install XAMPP, baru tonton video ini, cara buka menjalankan websitenya: [Tonton Videonya](https://gogole.com)
 
 ## 👥 Pengembang Proyek
 
