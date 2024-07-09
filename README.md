@@ -1,10 +1,10 @@
-# ⏳ [Web Projects] Ekspedisi Barang, Pelacakan Barang, Booking Hotel
+![image](https://github.com/nopalsh/3-web-projects/assets/92519364/1a50baab-fbda-4304-8b27-704ac4060f3c)# ⏳ [Web Projects] Ekspedisi Barang, Pelacakan Barang, Booking Hotel
 
 Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0.
+Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh saya sendiri sebagai pengembang.
 
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
