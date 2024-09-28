@@ -1,4 +1,4 @@
-# ⏳ [Web Projects] Ekspedisi Barang
+# ⏳ [Web Projects] Website Tracking Barang
 
 Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
 
@@ -14,24 +14,8 @@ Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache Licen
 - **File dokumentasi dalam format Microsoft Word (.docx)**: Berisi penjelasan tentang website, flowchart, dan desain database
 - **Screenshot di setiap halaman**
 - **Cara Jalanin Web nya? Scroll ke paling bawah**
-## 🌟 Daftar Proyek
 
-### Proyek 1 - Website Admin Impor-Ekspor
-
-Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang mau diekspor dan bisa menerima barang yang akan diimpor.
-
-**Screenshot**:
-- ![Screenshot 1](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-impor-php-2024-07-08-10_10_34.png)
-- ![Screenshot 2](https://github.com/nopalsh/pending-web-projects/blob/main/Admin%20Impor-Ekspor/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
-
-**Download File**:
-- [Download File Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Admin%20Impor-Ekspor/Admin%20Impor-Ekspor.zip)
-- [Download Dokumentasi (Word) Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/Admin%20Impor-Ekspor/Website%20Impor-Ekspor%20Barang.docx)
-- [Lihat Semua Screenshot Website Admin Impor-Ekspor](https://github.com/nopalsh/pending-web-projects/tree/main/Admin%20Impor-Ekspor/Screenshot)
-
-atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
-
-### Proyek 2 - Website Tracking Barang
+### Proyek 1 - Website Tracking Barang
 
 Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin dapat memperbarui status pengiriman, sementara client dapat melacak status pengiriman dengan nomor ID Pengiriman atau bisa disebut nomor resi.
 
@@ -49,25 +33,6 @@ Website ini dikembangkan untuk layanan pelacakan status pengiriman barang. Admin
 
 atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
 
-### Proyek 3 - World Hotel
-
-Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar, client melakukan booking kamar hotel.
-
-**Screenshot Admin**:
-- ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
-
-**Screenshot Client**:
-- ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
-
-**Download File**:
-- [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/World%20Hotel.zip)
-- [Download Dokumentasi (Word) Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/Website%20World%20Hotel.docx)
-- [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Admin%20Screenshot)
-- [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Client%20Screenshot)
-
-atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
-
-
 ---
 
 ## 💻 Teknologi yang Digunakan
@@ -84,25 +49,6 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download)
 - Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" atau "Yes" semuanya.**
 - Setelah install XAMPP, baru tonton video ini, cara menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
-
-### Username & Password untuk Website Admin Impor-Ekspor dan Website Tracking
-
-- **Username/Email:** `idn`
-- **Password:** `idn`
-
-atau
-
-- **Username/Email:** `sgp`
-- **Password:** `sgp`
-
-### Username & Password untuk Website World Hotel (akun untuk pelanggan)
-
-- **Username/Email:** `1@1.1`
-- **Password:** `1`
-
-Note:
-
-Untuk ke halaman admin world hotel tinggal search di browser ke: localhost/nama-folder/admin (contoh: localhost/World-Hotel/admin)
 
 ## 👥 Pengembang Proyek
 
