@@ -1,10 +1,10 @@
-# ⏳ [Web Projects] Website Tracking Barang
+# ⏳ Website Tracking Barang
 
 Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
 
 ## 📜 Tentang Lisensi
 
-Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini (masih) sepenuhnya dimiliki oleh saya sendiri sebagai pengembang.
+Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh Ilham Talakena.
 
 - [Lihat Lisensi Proyek Ini](https://github.com/nopalsh/pending-web-projects/blob/main/LICENSE)
 
@@ -50,16 +50,6 @@ atau download semua file via [Google Drive](https://drive.google.com/drive/folde
 - Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" atau "Yes" semuanya.**
 - Setelah install XAMPP, baru tonton video ini, cara menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
 
-## 👥 Pengembang Proyek
-
-- **Mochamad Naufal Shofy** - Pengembang Utama
-
-## 📬 Kontak
-
-Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
-- **✉️ Email**: naufalshofy38@gmail.com
-- **🔗 LinkedIn**: [Mochamad Naufal Shofy](https://www.linkedin.com/in/mochamad-naufal-shofy)
-
 Terima kasih telah mengunjungi repositori ini
 
-Copyright [2024] [Mochamad Naufal Shofy]
+Copyright [2024] [Ilham Talakena]
